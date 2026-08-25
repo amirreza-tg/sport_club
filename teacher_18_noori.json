@@ -1,0 +1,10 @@
+{
+    "teacher_name": "noori",
+    "teacher_code": "18",
+    "subjects": {
+        "riyazi": {
+            "students": [],
+            "miyangin_kelasi": 18.0
+        }
+    }
+}

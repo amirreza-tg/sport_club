@@ -1,0 +1,10 @@
+{
+    "teacher_name": "akrami",
+    "teacher_code": "15",
+    "subjects": {
+        "fizik": {
+            "students": [],
+            "miyangin_kelasi": 17.0
+        }
+    }
+}
